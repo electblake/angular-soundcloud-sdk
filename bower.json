@@ -1,0 +1,21 @@
+{
+  "name": "angular-soundcloud-sdk",
+  "version": "0.0.1",
+  "homepage": "https://github.com/electblake/angular-soundcloud-sdk",
+  "authors": [
+    "electblake <electblake@gmail.com>"
+  ],
+  "description": "soundcloud javascript sdk for angular",
+  "main": "index.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "GPLv2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
